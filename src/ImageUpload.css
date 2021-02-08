@@ -1,0 +1,41 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: sticky;
+    bottom: 0;
+    padding: 5px;
+    
+}
+
+.imageupload__progress{
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageupload__caption{
+    margin-bottom: 10px;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    border: 1px solid lightgrey;
+}
+
+.imageupload__upload{
+margin: auto;
+margin-bottom: 10px;
+}
+
+.imageupload__button{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
