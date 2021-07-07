@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction 🚀
-Create a platform similar to Instagram where users can post images and also comment on each other's post. Users have an option of signing up once they visit the page. Once signed up, users can log in anytime they wish. Uses React.JS for frontend, Firebase storage to store images and Google Authentication for sign up process.
+A platform similar to Instagram where users can post images and also comment on each other's post. Users have an option of signing up once they visit the page. Once signed up, users can log in anytime they wish. Uses React.JS for frontend, Firebase storage to store images and Google Authentication for sign up process.
 
 <h3 align="left">Languages and Tools 💻 </h3>
 <p>
