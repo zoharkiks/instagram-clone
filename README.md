@@ -1,6 +1,6 @@
 <h1 align="center">Instagram Clone</h3> 
-<p> <a href="https://instagram-clone-4ab5e.web.app/"><h3 align="center" >Live Site</h3></a>
-</p>
+<a href="https://instagram-clone-4ab5e.web.app/"><p align="center" >Live Site</p></a>
+
 
 <p align="center">
 <img src="https://i.ibb.co/FYCd0xv/ig-clone.png" height="75%" width="75%" >
